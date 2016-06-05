@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/whalle/dotfiles.png?label=ready&title=Ready)](https://waffle.io/whalle/dotfiles)
 [![Stories in Ready](https://badge.waffle.io/webdesserts/dotfiles.png?label=ready&title=Ready)](https://waffle.io/webdesserts/dotfiles)
 My dotfiles
 ===========
