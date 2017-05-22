@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/insuusvenerati/dotfiles.png?label=ready&title=Ready)](https://waffle.io/insuusvenerati/dotfiles?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/matthewmccullough/dotfiles.png?label=ready&title=Ready)](https://waffle.io/matthewmccullough/dotfiles?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/aphichat/dotfiles.png?label=ready&title=Ready)](https://waffle.io/aphichat/dotfiles)
 [![Stories in Ready](https://badge.waffle.io/yoshitakame/dotfiles.png?label=ready&title=Ready)](https://waffle.io/yoshitakame/dotfiles)
